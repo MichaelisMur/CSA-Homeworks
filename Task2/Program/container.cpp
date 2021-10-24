@@ -37,7 +37,6 @@ void Container::In(ifstream &ifst) {
 //------------------------------------------------------------------------------
 // Вывод содержимого контейнера в указанный поток
 void Container::Out(ofstream &ofst) {
-    cout << "WTF";
     ofst << "Container contains " << len << " elements.\n";
     for(int i = 0; i < len; i++) {
         ofst << "Figure " << i << ": ";

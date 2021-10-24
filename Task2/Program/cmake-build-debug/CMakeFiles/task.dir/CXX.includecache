@@ -6,17 +6,17 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/container.cpp
+C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/container.cpp
 iostream
-C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/iostream
+C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/iostream
 container.h
-C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/container.h
+C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/container.h
 
-C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/container.h
+C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/container.h
 shape.h
-C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/shape.h
+C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/shape.h
 
-C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/shape.h
+C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/shape.h
 fstream
 -
 

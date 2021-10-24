@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug"/>
+				<Option working_dir="C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="task">
-				<Option output="C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/bin/task.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug/../bin"/>
+				<Option output="C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/bin/task.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug/../bin"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -32,15 +32,15 @@
 					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 task"/>
-					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 task"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="task/fast">
-				<Option output="C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/bin/task.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug/../bin"/>
+				<Option output="C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/bin/task.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug/../bin"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -53,76 +53,76 @@
 					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 task/fast"/>
-					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 task/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug"/>
+				<Option working_dir="C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug"/>
+				<Option working_dir="C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/circle.cpp">
+		<Unit filename="C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/circle.cpp">
 			<Option target="task"/>
 		</Unit>
-		<Unit filename="C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/circle.h">
+		<Unit filename="C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/circle.h">
 			<Option target="task"/>
 		</Unit>
-		<Unit filename="C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/colour.cpp">
+		<Unit filename="C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/colour.cpp">
 			<Option target="task"/>
 		</Unit>
-		<Unit filename="C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/colour.h">
+		<Unit filename="C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/colour.h">
 			<Option target="task"/>
 		</Unit>
-		<Unit filename="C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/container.cpp">
+		<Unit filename="C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/container.cpp">
 			<Option target="task"/>
 		</Unit>
-		<Unit filename="C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/container.h">
+		<Unit filename="C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/container.h">
 			<Option target="task"/>
 		</Unit>
-		<Unit filename="C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/main.cpp">
+		<Unit filename="C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/main.cpp">
 			<Option target="task"/>
 		</Unit>
-		<Unit filename="C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/rectangle.cpp">
+		<Unit filename="C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/rectangle.cpp">
 			<Option target="task"/>
 		</Unit>
-		<Unit filename="C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/rectangle.h">
+		<Unit filename="C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/rectangle.h">
 			<Option target="task"/>
 		</Unit>
-		<Unit filename="C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/rnd.h">
+		<Unit filename="C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/rnd.h">
 			<Option target="task"/>
 		</Unit>
-		<Unit filename="C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/shape.cpp">
+		<Unit filename="C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/shape.cpp">
 			<Option target="task"/>
 		</Unit>
-		<Unit filename="C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/shape.h">
+		<Unit filename="C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/shape.h">
 			<Option target="task"/>
 		</Unit>
-		<Unit filename="C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/triangle.cpp">
+		<Unit filename="C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/triangle.cpp">
 			<Option target="task"/>
 		</Unit>
-		<Unit filename="C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/triangle.h">
+		<Unit filename="C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/triangle.h">
 			<Option target="task"/>
 		</Unit>
-		<Unit filename="C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/CMakeLists.txt">
+		<Unit filename="C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

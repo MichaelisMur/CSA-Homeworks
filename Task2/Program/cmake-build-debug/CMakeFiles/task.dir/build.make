@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program
+CMAKE_SOURCE_DIR = C:\Users\User\Desktop\CSA-Homeworks\Task2\Program
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/task.dir/depend.make
@@ -67,94 +67,94 @@ include CMakeFiles/task.dir/flags.make
 
 CMakeFiles/task.dir/triangle.cpp.obj: CMakeFiles/task.dir/flags.make
 CMakeFiles/task.dir/triangle.cpp.obj: ../triangle.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/task.dir/triangle.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\task.dir\triangle.cpp.obj -c C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\triangle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/task.dir/triangle.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\task.dir\triangle.cpp.obj -c C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\triangle.cpp
 
 CMakeFiles/task.dir/triangle.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/task.dir/triangle.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\triangle.cpp > CMakeFiles\task.dir\triangle.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\triangle.cpp > CMakeFiles\task.dir\triangle.cpp.i
 
 CMakeFiles/task.dir/triangle.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task.dir/triangle.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\triangle.cpp -o CMakeFiles\task.dir\triangle.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\triangle.cpp -o CMakeFiles\task.dir\triangle.cpp.s
 
 CMakeFiles/task.dir/rectangle.cpp.obj: CMakeFiles/task.dir/flags.make
 CMakeFiles/task.dir/rectangle.cpp.obj: ../rectangle.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/task.dir/rectangle.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\task.dir\rectangle.cpp.obj -c C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\rectangle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/task.dir/rectangle.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\task.dir\rectangle.cpp.obj -c C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\rectangle.cpp
 
 CMakeFiles/task.dir/rectangle.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/task.dir/rectangle.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\rectangle.cpp > CMakeFiles\task.dir\rectangle.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\rectangle.cpp > CMakeFiles\task.dir\rectangle.cpp.i
 
 CMakeFiles/task.dir/rectangle.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task.dir/rectangle.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\rectangle.cpp -o CMakeFiles\task.dir\rectangle.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\rectangle.cpp -o CMakeFiles\task.dir\rectangle.cpp.s
 
 CMakeFiles/task.dir/shape.cpp.obj: CMakeFiles/task.dir/flags.make
 CMakeFiles/task.dir/shape.cpp.obj: ../shape.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/task.dir/shape.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\task.dir\shape.cpp.obj -c C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\shape.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/task.dir/shape.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\task.dir\shape.cpp.obj -c C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\shape.cpp
 
 CMakeFiles/task.dir/shape.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/task.dir/shape.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\shape.cpp > CMakeFiles\task.dir\shape.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\shape.cpp > CMakeFiles\task.dir\shape.cpp.i
 
 CMakeFiles/task.dir/shape.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task.dir/shape.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\shape.cpp -o CMakeFiles\task.dir\shape.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\shape.cpp -o CMakeFiles\task.dir\shape.cpp.s
 
 CMakeFiles/task.dir/container.cpp.obj: CMakeFiles/task.dir/flags.make
 CMakeFiles/task.dir/container.cpp.obj: ../container.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/task.dir/container.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\task.dir\container.cpp.obj -c C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\container.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/task.dir/container.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\task.dir\container.cpp.obj -c C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\container.cpp
 
 CMakeFiles/task.dir/container.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/task.dir/container.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\container.cpp > CMakeFiles\task.dir\container.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\container.cpp > CMakeFiles\task.dir\container.cpp.i
 
 CMakeFiles/task.dir/container.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task.dir/container.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\container.cpp -o CMakeFiles\task.dir\container.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\container.cpp -o CMakeFiles\task.dir\container.cpp.s
 
 CMakeFiles/task.dir/colour.cpp.obj: CMakeFiles/task.dir/flags.make
 CMakeFiles/task.dir/colour.cpp.obj: ../colour.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/task.dir/colour.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\task.dir\colour.cpp.obj -c C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\colour.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/task.dir/colour.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\task.dir\colour.cpp.obj -c C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\colour.cpp
 
 CMakeFiles/task.dir/colour.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/task.dir/colour.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\colour.cpp > CMakeFiles\task.dir\colour.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\colour.cpp > CMakeFiles\task.dir\colour.cpp.i
 
 CMakeFiles/task.dir/colour.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task.dir/colour.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\colour.cpp -o CMakeFiles\task.dir\colour.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\colour.cpp -o CMakeFiles\task.dir\colour.cpp.s
 
 CMakeFiles/task.dir/main.cpp.obj: CMakeFiles/task.dir/flags.make
 CMakeFiles/task.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/task.dir/main.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\task.dir\main.cpp.obj -c C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/task.dir/main.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\task.dir\main.cpp.obj -c C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\main.cpp
 
 CMakeFiles/task.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/task.dir/main.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\main.cpp > CMakeFiles\task.dir\main.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\main.cpp > CMakeFiles\task.dir\main.cpp.i
 
 CMakeFiles/task.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task.dir/main.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\main.cpp -o CMakeFiles\task.dir\main.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\main.cpp -o CMakeFiles\task.dir\main.cpp.s
 
 CMakeFiles/task.dir/circle.cpp.obj: CMakeFiles/task.dir/flags.make
 CMakeFiles/task.dir/circle.cpp.obj: ../circle.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/task.dir/circle.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\task.dir\circle.cpp.obj -c C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\circle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/task.dir/circle.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\task.dir\circle.cpp.obj -c C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\circle.cpp
 
 CMakeFiles/task.dir/circle.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/task.dir/circle.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\circle.cpp > CMakeFiles\task.dir\circle.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\circle.cpp > CMakeFiles\task.dir\circle.cpp.i
 
 CMakeFiles/task.dir/circle.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/task.dir/circle.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\circle.cpp -o CMakeFiles\task.dir\circle.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\circle.cpp -o CMakeFiles\task.dir\circle.cpp.s
 
 # Object files for target task
 task_OBJECTS = \
@@ -180,7 +180,7 @@ task_EXTERNAL_OBJECTS =
 ../bin/task.exe: CMakeFiles/task.dir/linklibs.rsp
 ../bin/task.exe: CMakeFiles/task.dir/objects1.rsp
 ../bin/task.exe: CMakeFiles/task.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable ..\bin\task.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable ..\bin\task.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\task.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -192,6 +192,6 @@ CMakeFiles/task.dir/clean:
 .PHONY : CMakeFiles/task.dir/clean
 
 CMakeFiles/task.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\cmake-build-debug C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\cmake-build-debug C:\Users\User\Desktop\Documents\docs\CSA-Homeworks\Task2\Program\cmake-build-debug\CMakeFiles\task.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\User\Desktop\CSA-Homeworks\Task2\Program C:\Users\User\Desktop\CSA-Homeworks\Task2\Program C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\cmake-build-debug C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\cmake-build-debug C:\Users\User\Desktop\CSA-Homeworks\Task2\Program\cmake-build-debug\CMakeFiles\task.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/task.dir/depend
 

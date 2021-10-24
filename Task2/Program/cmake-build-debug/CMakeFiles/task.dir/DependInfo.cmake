@@ -8,13 +8,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/circle.cpp" "C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug/CMakeFiles/task.dir/circle.cpp.obj"
-  "C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/colour.cpp" "C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug/CMakeFiles/task.dir/colour.cpp.obj"
-  "C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/container.cpp" "C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug/CMakeFiles/task.dir/container.cpp.obj"
-  "C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/main.cpp" "C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug/CMakeFiles/task.dir/main.cpp.obj"
-  "C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/rectangle.cpp" "C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug/CMakeFiles/task.dir/rectangle.cpp.obj"
-  "C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/shape.cpp" "C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug/CMakeFiles/task.dir/shape.cpp.obj"
-  "C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/triangle.cpp" "C:/Users/User/Desktop/Documents/docs/CSA-Homeworks/Task2/Program/cmake-build-debug/CMakeFiles/task.dir/triangle.cpp.obj"
+  "C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/circle.cpp" "C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug/CMakeFiles/task.dir/circle.cpp.obj"
+  "C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/colour.cpp" "C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug/CMakeFiles/task.dir/colour.cpp.obj"
+  "C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/container.cpp" "C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug/CMakeFiles/task.dir/container.cpp.obj"
+  "C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/main.cpp" "C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug/CMakeFiles/task.dir/main.cpp.obj"
+  "C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/rectangle.cpp" "C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug/CMakeFiles/task.dir/rectangle.cpp.obj"
+  "C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/shape.cpp" "C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug/CMakeFiles/task.dir/shape.cpp.obj"
+  "C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/triangle.cpp" "C:/Users/User/Desktop/CSA-Homeworks/Task2/Program/cmake-build-debug/CMakeFiles/task.dir/triangle.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
