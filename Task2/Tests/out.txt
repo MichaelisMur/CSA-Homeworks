@@ -16,16 +16,16 @@ Figure 12: It is a red Circle: r = 1, O.x = 0, O.y = 0
 
 
 Sorted figures:
-Figure 2: A  . Area: 1
-Figure 6: A  . Area: 3
-Figure 12: A  . Area: 3.14159
-Figure 11: A  . Area: 3.5
-Figure 7: A  . Area: 4
-Figure 3: A  . Area: 7.5
-Figure 10: A  . Area: 18
-Figure 1: A  . Area: 25
-Figure 5: A  . Area: 25
-Figure 0: A  . Area: 28.2743
-Figure 9: A  . Area: 100
-Figure 8: A  . Area: 254.469
-Figure 4: A  . Area: 314.159
+Figure 2. Area: 1
+Figure 6. Area: 3
+Figure 12. Area: 3.14159
+Figure 11. Area: 3.5
+Figure 7. Area: 4
+Figure 3. Area: 7.5
+Figure 10. Area: 18
+Figure 1. Area: 25
+Figure 5. Area: 25
+Figure 0. Area: 28.2743
+Figure 9. Area: 100
+Figure 8. Area: 254.469
+Figure 4. Area: 314.159

@@ -37,6 +37,7 @@ void Container::In(ifstream &ifst) {
 //------------------------------------------------------------------------------
 // Вывод содержимого контейнера в указанный поток
 void Container::Out(ofstream &ofst) {
+    cout << "WTF";
     ofst << "Container contains " << len << " elements.\n";
     for(int i = 0; i < len; i++) {
         ofst << "Figure " << i << ": ";
@@ -48,7 +49,7 @@ void Container::Out(ofstream &ofst) {
     ofst << "\n\nSorted figures:\n";
     std::string colour, type;
     for (int i = 0; i < len; ++i) {
-        ofst << "Figure " << storage[i]->len << ": A " << colour << " " << type << ". Area: "
+        ofst << "Figure " << storage[i]->len << ". Area: "
              << storage[i]->Area() << std::endl;
     }
 }
