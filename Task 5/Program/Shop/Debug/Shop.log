@@ -1,0 +1,25 @@
+﻿  Client.cpp
+C:\Users\User\Desktop\Misha-main\Misha-main\Shop\Shop\Printer.cpp(15,2): warning C4091: 'static ': ignored on left of 'Printer' when no variable is declared
+C:\Users\User\Desktop\Misha-main\Misha-main\Shop\Shop\Client.cpp(98,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\Misha-main\Misha-main\Shop\Shop\Client.cpp(137,27): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+C:\Users\User\Desktop\Misha-main\Misha-main\Shop\Shop\Printer.cpp(15,2): warning C4091: 'static ': ignored on left of 'Printer' when no variable is declared
+C:\Users\User\Desktop\Misha-main\Misha-main\Shop\Shop\Client.cpp(98,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\Misha-main\Misha-main\Shop\Shop\Client.cpp(137,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\Misha-main\Misha-main\Shop\Shop\Shop.cpp(58,27): warning C4018: '<': signed/unsigned mismatch
+  OperatorForProducts.cpp
+  Printer.cpp
+C:\Users\User\Desktop\Misha-main\Misha-main\Shop\Shop\Printer.cpp(15,2): warning C4091: 'static ': ignored on left of 'Printer' when no variable is declared
+  Products.cpp
+  Seller.cpp
+C:\Users\User\Desktop\Misha-main\Misha-main\Shop\Shop\Printer.cpp(15,2): warning C4091: 'static ': ignored on left of 'Printer' when no variable is declared
+C:\Users\User\Desktop\Misha-main\Misha-main\Shop\Shop\Client.cpp(98,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\Misha-main\Misha-main\Shop\Shop\Client.cpp(137,27): warning C4018: '<': signed/unsigned mismatch
+  Shop.cpp
+C:\Users\User\Desktop\Misha-main\Misha-main\Shop\Shop\Printer.cpp(15,2): warning C4091: 'static ': ignored on left of 'Printer' when no variable is declared
+C:\Users\User\Desktop\Misha-main\Misha-main\Shop\Shop\Client.cpp(98,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\Misha-main\Misha-main\Shop\Shop\Client.cpp(137,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\Misha-main\Misha-main\Shop\Shop\Shop.cpp(58,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\User\Desktop\Misha-main\Misha-main\Shop\Shop\Seller.cpp(84): warning C4717: 'Seller::doInThread': recursive on all control paths, function will cause runtime stack overflow
+  Shop.vcxproj -> C:\Users\User\Desktop\Misha-main\Misha-main\Shop\Debug\Shop.exe
